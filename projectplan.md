@@ -31,3 +31,15 @@ Link to Assignemt: https://1drv.ms/w/s!Ap4JPbfie2zTg7I12fy6V3s3fmqqVw?e=MxFjr1
 
 ### Useful Links for GitFlow: 
 
+<br>
+
+Setup: https://github.com/neiloconnor/git-flow-exercise/blob/master/walkthrough/1-setup.md
+
+<br>
+
+Feature Branches: https://github.com/neiloconnor/git-flow-exercise/blob/master/walkthrough/2-feature-branches.md
+
+
+
+
+
